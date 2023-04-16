@@ -1,5 +1,12 @@
 # Bem-vindo ao Receita Fácil!
-
+<h1 align="center">
+    <img height="200" src="https://ik.imagekit.io/lcf9dsx9t/App_Receita_F%C3%A1cil__1__page-0002.jpg?updatedAt=1681151638742">
+    <img height="200" src="https://ik.imagekit.io/lcf9dsx9t/App_Receita_F%C3%A1cil__1__page-0003.jpg?updatedAt=1681151638644">
+    <img height="200" src="https://ik.imagekit.io/lcf9dsx9t/App_Receita_F%C3%A1cil__1__page-0004.jpg?updatedAt=1681151638387">
+    <img height="200" src="https://ik.imagekit.io/lcf9dsx9t/App_Receita_F%C3%A1cil__1__page-0006.jpg?updatedAt=1681151638355">
+    <img height="200" src="https://ik.imagekit.io/lcf9dsx9t/App_Receita_F%C3%A1cil__1__page-0005.jpg?updatedAt=1681151637820">
+    <img height="200" src="https://ik.imagekit.io/lcf9dsx9t/App_Receita_F%C3%A1cil__1__page-0007.jpg?updatedAt=1681151633001">
+</h1>
 O Receita Fácil é um aplicativo de compartilhamento de receitas de comida desenvolvido em React Native. O aplicativo é compatível com dispositivos iOS e Android e faz uso do Axios para fazer chamadas HTTP para um servidor JSON. É necessário rodar um servidor local JSON com a ferramenta JSON Server para utilizar o aplicativo. O aplicativo foi desenvolvido pelo canal Sujeito programador em um workshop para mostrar como cria um aplicativo do zero.
 
 ## Instalação
